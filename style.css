@@ -1,0 +1,253 @@
+body{
+  background: F5F5F5;
+}
+
+.mm_top{
+list-style-type: none;
+}
+
+.mm_top li{
+display: inline-block;
+}
+
+.mm_top a{
+display: block;
+text-decoration: none; 
+font-size: 48px;
+color: white;
+}
+
+.bloc{
+margin-right:  150px;
+color: white;   
+}
+
+header{
+background-image: url("https://static.tildacdn.com/tild3231-3738-4062-a165-656566653837/3.svg");
+background-color: black;
+background-repeat: no-repeat;
+background-position: center;
+width: 1512px;
+height: 182px;
+padding: 20px;
+}
+
+.botton{
+margin-right: 270px;
+color: white;
+}
+
+.arcc{
+margin-left: 250px;
+margin-top: 100px;
+margin-right: 73px;
+color: white;
+}
+
+p{
+position: absolute;
+width: 955px;
+height: 616px;
+left: 278px;
+top: 565px;
+font-family: inter;
+font-style: normal;
+font-weight: 400px;
+font-size: 64px;
+line-height: 77px;
+color: black;
+border-radius: 50px;
+background: yellow;
+padding: 100px;
+text-align: center;
+}
+
+h1{
+position: absolute;
+width: 345px;
+height: 100px;
+left: 579px;
+top: 350px;
+font-family: inter;
+font-style: normal;
+font-weight: 400px;
+font-size: 96px;
+line-height: 116px;
+color: black;
+text-align: center;
+}
+
+
+.alisher{
+position: absolute;
+width: 981px;
+height: 888px;
+left: 278px;
+top: 1450px;
+font-family: inter;
+font-style: normal;
+font-weight: 400px;
+font-size: 64px;
+line-height: 77px;
+color: black;
+text-align: center;
+background-color: #93CBFF;
+}
+
+.text_h1_{
+position: absolute;
+width: 1174px;
+height: 83px;
+left: 169px;
+top: 2643px;
+font-family: k2d;
+font-style: normal;
+font-weight: 400px;
+font-size: 64px;
+line-height: 83px;
+color: black;
+}
+
+.img_5{
+position: absolute;
+width: 300px;
+height: 246px;
+left: 0px;
+top: 2787px;
+}
+
+.img_5_1{
+position: absolute;
+width: 300px;
+height: 172.29px;
+left: 260px;
+top: 2858px;
+}
+
+.img_5_2{
+position: absolute;
+width: 300px;
+height: 101.03px;
+left: 550px;
+top: 2897px;
+}
+
+.img_5_3{
+position: absolute;
+width: 300px;
+height: 185px;
+left: 865px;
+top: 2850px;
+opacity: 0.7;
+border-radius: 10px;
+}
+
+.img_5_4{
+position: absolute;
+width: 250px;
+height: 150x;
+left: 1195px;
+top: 2850px;
+border-radius: 10px;
+}
+
+.img_5_5{
+position: absolute;
+width: 300px;
+height: 179.09px;
+left: 0px;
+top: 3115px;
+}
+
+.img_5_6{
+position: absolute;
+width: 300px;
+height: 255.56px;
+left: 268px;
+top: 3033px;
+}
+
+.img_5_7{
+position: absolute;
+width: 313px;
+height: 195px;
+left: 550px;
+top: 3097px;
+}
+
+.img_5_8{
+position: absolute;
+width: 350px;
+height: 190px;
+left: 817px;
+top: 3102px;
+}
+
+.img_5_9{
+position: absolute;
+width: 300px;
+height: 272.8px;
+left: 1180px;
+top: 3102px;
+}
+
+footer{
+position: absolute;
+width: 1507px;
+height: 358px;
+left: 0px;
+top: 3400px;
+background: black;
+padding: 10px;
+margin-bottom: 50px;
+}
+
+.footer_img{
+position: absolute;
+width: 400px;
+height: 198px;
+left: 1031px;
+top: 50px;
+}
+
+h3{
+position: absolute;
+width: 983.31px;
+height: 309.72px;
+left: 23px;
+top: 0px;
+font-family: k2d;
+font-style: normal;
+font-weight: 400px;
+font-size: 48px;
+line-height: 83px;
+color: white;
+}
+
+.h3_footer{
+position: absolute;
+width: 983.31px;
+height: 309.72px;
+left: 23px;
+top: 80px;
+font-family: k2d;
+font-style: normal;
+font-weight: 400px;
+font-size: 48px;
+line-height: 83px;
+color: white;
+}
+
+.h3_footer_3{
+position: absolute;
+width: 983.31px;
+height: 309.72px;
+left: 23px;
+top: 150px;
+font-family: k2d;
+font-style: normal;
+font-weight: 400px;
+font-size: 48px;
+line-height: 83px;
+color: white;
+}
